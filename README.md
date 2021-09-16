@@ -1,2 +1,2 @@
 # Pygame-Platformer
- Learning Project
+ Learning Project where I learn the basics of pygame and brush up my OOP skills
